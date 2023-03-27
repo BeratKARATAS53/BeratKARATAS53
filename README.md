@@ -34,10 +34,9 @@
   <a href="https://www.linkedin.com/in/berat-karatas/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="007berat.karatas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=f12711&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://discordapp.com/users/326313038703624193" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=8E2DE2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="https://www.instagram.com/karatas_berat/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -50,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/beratkaratas53/beratkaratas53/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/beratkaratas53/beratkaratas53/output/snake.svg" alt="Snake animation" />
 
 ###
