@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=beratkaratas53&row=1&column=10&theme=dracula&no-frame=true" alt="Trophies"/>
+	<img src="https://github-profile-trophy.vercel.app/?username=beratkaratas53&row=1&column=10&theme=dracula&no-frame=true" height="150" alt="Trophies"/>
 </div>
 
 <div align="center">
