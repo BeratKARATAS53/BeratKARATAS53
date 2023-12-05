@@ -45,9 +45,6 @@
 	</a>
 </div>
 
-###
-
-<br clear="both">
 <div align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=beratkaratas53&row=1&column=10&theme=dracula&no-frame=true" height="150" alt="trophies"/>
 </div>
