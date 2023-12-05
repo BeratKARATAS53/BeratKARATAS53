@@ -46,12 +46,9 @@
 </div>
 
 <div align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=beratkaratas53&row=1&column=10&theme=dracula&no-frame=true" height="150" alt="trophies"/>
+	<img src="https://github-profile-trophy.vercel.app/?username=beratkaratas53&row=1&column=10&theme=dracula&no-frame=true" alt="Trophies"/>
 </div>
 
-###
-
-<br clear="both">
 <div align="center">
 	<img src="https://raw.githubusercontent.com/beratkaratas53/beratkaratas53/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
 	<img src="https://raw.githubusercontent.com/beratkaratas53/beratkaratas53/master/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub stats" />
