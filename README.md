@@ -56,18 +56,16 @@
 
 <br clear="both">
 
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beratkaratas53/beratkaratas53/output/pacman-contribution-graph-dark.svg">
-	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beratkaratas53/beratkaratas53/output/pacman-contribution-graph.svg">
-	<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/beratkaratas53/beratkaratas53/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+	<img src="https://raw.githubusercontent.com/beratkaratas53/beratkaratas53/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+</div>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/beratkaratas53/beratkaratas53/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=beratkaratas53&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&bg_color=282A36&custom_title=Contribution%20Graph" height="200" alt="activity-graph graph" />
 </div>
 
 ###
