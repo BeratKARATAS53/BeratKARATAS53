@@ -67,7 +67,7 @@
 <br clear="both">
 
 <div align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=beratkaratas53&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&bg_color=282A36&custom_title=Contribution%20Graph" height="200" alt="activity-graph graph" />
+	<img src="https://raw.githubusercontent.com/beratkaratas53/beratkaratas53/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
 </div>
 
 ###
