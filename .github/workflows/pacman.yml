@@ -30,5 +30,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          force_modify: true # Çakışmaları ve kilitleri ezerek zorla push etmesini sağlar
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
