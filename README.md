@@ -56,15 +56,15 @@
 
 <div align="center">
 	<!--<img src="https://raw.githubusercontent.com/beratkaratas53/beratkaratas53/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution grid dark animation" />-->
-	//<img src="https://raw.githubusercontent.com/beratkaratas53/beratkaratas53/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d commit graph" />
+	<img src="https://raw.githubusercontent.com/beratkaratas53/beratkaratas53/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d commit graph" />
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<!--<div align="center">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=beratkaratas53&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&bg_color=282A36&custom_title=Contribution%20Graph" height="200" alt="activity-graph graph" />
 </div>
-
+-->
 ###
