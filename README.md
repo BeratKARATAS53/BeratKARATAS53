@@ -55,7 +55,7 @@
 <br clear="both">
 
 <div align="center">
-	//<img src="https://raw.githubusercontent.com/beratkaratas53/beratkaratas53/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution grid dark animation" />
+	<!--<img src="https://raw.githubusercontent.com/beratkaratas53/beratkaratas53/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution grid dark animation" />-->
 	//<img src="https://raw.githubusercontent.com/beratkaratas53/beratkaratas53/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d commit graph" />
 </div>
 
